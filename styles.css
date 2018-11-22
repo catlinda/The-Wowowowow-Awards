@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    background-image: url("http://static.parade.com/wp-content/uploads/2014/03/Why-Do-Stars-All-Look-Almost-the-Same-Size-ftr.jpg");
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Monoton', cursive;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+p {
+    color: white;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 30px;
+}
+.number {
+    color: white;
+    font-family: 'Zilla Slab', serif;
+}
+.letter {
+    font-family: 'Allerta Stencil', sans-serif;
+}
+.cat {
+    font-family: 'Indie Flower', cursive;
+}
+h3 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-size:40px;
+}
